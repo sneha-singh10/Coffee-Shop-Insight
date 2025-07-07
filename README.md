@@ -22,5 +22,5 @@ This project is a dynamic and interactive Excel dashboard built to analyze coffe
 - Determined busiest hours of the day and optimal staffing times  
 - Analyzed customer preferences to support marketing and promotions
 
-##  File Structure
+
 
